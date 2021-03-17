@@ -1,2 +1,2 @@
-# -gazati-Emelt-retts-gi
+# Ágazati-Emelt-érettségi
 Ágazati Emelt érettségi megoldások java nyelven
